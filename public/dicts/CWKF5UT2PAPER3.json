@@ -16,7 +16,7 @@
     { "name": "sensitive", "trans": ["adj. 敏感的"] },
     { "name": "meet and greet", "trans": ["n phr. 見面會"] },
     { "name": "susceptible", "trans": ["adj. 易受影響的"] },
-    { "name": "a good night’s sleep", "trans": ["n phr. 睡個好覺"] },
+    { "name": "a good night's sleep", "trans": ["n phr. 睡個好覺"] },
     { "name": "vulnerable", "trans": ["adj. 脆弱的"] },
     { "name": "adapt to", "trans": ["v+prep. 適應"] },
     { "name": "independently", "trans": ["adv. 獨立地"] },
@@ -86,5 +86,5 @@
     { "name": "filled", "trans": ["v-ed. 填滿"] },
     { "name": "due to", "trans": ["prep. 由於"] },
     { "name": "guaranteed", "trans": ["v-ed. 保證"] },
-    { "name": "on a (adj) basis", "trans": ["prep phr. 以…為基礎"] }
+    { "name": "on a adj. basis", "trans": ["prep phr. 以…為基礎"] }
   ]

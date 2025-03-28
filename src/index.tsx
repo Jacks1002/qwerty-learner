@@ -14,12 +14,6 @@ import 'react-app-polyfill/stable'
 import { createRoot } from 'react-dom/client'
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
 
-// 示例（React Router v6）:
-import { useNavigate } from 'react-router-dom';
-const navigate = useNavigate();
-useEffect(() => {
-  navigate('/dict/CWKF5UT2PAPER3.json'); // 强制跳转到你的词典
-}, []);
 
 const AnalysisPage = lazy(() => import('./pages/Analysis'))
 const GalleryPage = lazy(() => import('./pages/Gallery-N'))

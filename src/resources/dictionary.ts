@@ -4,12 +4,23 @@ import { calcChapterCount } from '@/utils'
 // 中国考试
 const chinaExam: DictionaryResource[] = [
   {
+    id: 'CWKF5UT2PAPER1',
+    name: 'CWK-F5-UT-PAPER1',
+    description: '嶺南鐘榮光博士紀念中學統測卷一單詞',
+    category: '中国考试',
+    tags: ['大学英语'],
+    url: '/dicts/CWK-F5-UT2-PAPER1.json',
+    length: 31,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'CWKF5UT2PAPER3',
     name: 'CWK-F5-UT-PAPER3',
     description: '嶺南鐘榮光博士紀念中學統測卷三單詞',
     category: '中国考试',
     tags: ['大学英语'],
-    url: '/dicts/CWKF5UT2PAPER3.json',
+    url: '/dicts/CWK-F5-UT2-PAPER3.json',
     length: 88,
     language: 'en',
     languageCategory: 'en',

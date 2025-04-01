@@ -38,7 +38,7 @@
     { "name": "internship", "trans": ["n. 實習"] },
     { "name": "cope with", "trans": ["v+prep. 應對"] },
     { "name": "journal", "trans": ["n. 日記"] },
-    { "name": "propel… forward", "trans": ["v+adv. 推動…前進"] },
+    { "name": "propel forward", "trans": ["v+adv. 推動…前進"] },
     { "name": "opportunity", "trans": ["n. 機會"] },
     { "name": "spread gossip", "trans": ["v+n. 散播流言蜚語"] },
     { "name": "options", "trans": ["n. 選項"] },
@@ -86,5 +86,5 @@
     { "name": "filled", "trans": ["v-ed. 填滿"] },
     { "name": "due to", "trans": ["prep. 由於"] },
     { "name": "guaranteed", "trans": ["v-ed. 保證"] },
-    { "name": "on a adj. basis", "trans": ["prep phr. 以…為基礎"] }
+    { "name": "on a adj basis", "trans": ["prep phr. 以…為基礎"] }
   ]

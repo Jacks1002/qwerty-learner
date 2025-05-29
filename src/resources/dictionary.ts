@@ -2,7 +2,7 @@ import type { Dictionary, DictionaryResource } from '@/typings/index'
 import { calcChapterCount } from '@/utils'
 
 // 中国考试
-const chinaExam: DictionaryResource[] = [
+const chinaExam: DictionaryResource[] = [//
   {
     id: 'CWK-F5-EX2-PAPER1',
     name: 'CWK-F5-EX2-PAPER1',
